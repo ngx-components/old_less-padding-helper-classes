@@ -1,15 +1,15 @@
 [![AngularJS Express](http://i.imgur.com/nTj9QgN.png)](https://github.com/angular-express/angular-express)
 
-## CSS padding helper classes
+## LESS padding helper classes
 
-Set of CSS padding helper classes that allow you to quickly assign various levels of padding to elements using plain CSS classes.
+Set of LESS padding helper classes that allow you to quickly assign various levels of padding to elements using plain CSS classes.
 
 ## Installation
 
 To install the component:
 
 ```bash
-$ ngx install css-padding-helper-classes
+$ ngx install less-padding-helper-classes
 ```
 
 No clue what the `ngx` command line tool is? Learn more about [AngularJS Express](https://github.com/angular-express/angular-express).
